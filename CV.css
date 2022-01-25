@@ -1,0 +1,39 @@
+body{
+ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB6zV368KYr4HK9C7KWODLfgyQZPcnZGfV7g&usqp=CAU);
+ background-size: 100%;
+ color: aqua;
+}
+.img{
+    width: 300px;
+    height: 350px;
+    border-radius: 10%;
+}
+.h1{
+    text-align: center;
+    font-size: 60px;
+    color: aqua;
+    height: 130px;
+}
+table{
+    width: 100%;
+}
+button:hover{
+    background-color: black;
+    color: aqua;
+}
+h2{
+    margin-left: 50px;
+    margin-top: 100px;
+}
+footer{
+    background-color: black;
+    color: aqua;
+    height: 100px;
+    
+}
+.a{
+    padding: 33px;
+    font-size: 50px;
+}
+    
+    
